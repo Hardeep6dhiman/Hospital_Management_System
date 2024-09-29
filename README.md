@@ -52,27 +52,36 @@ Support for Reporting and Analytics: Facilitate queries and reports for hospital
   4. Find pa􀆟ents who have seen doctors in more than one department.
 
   5. For each pa􀆟ent, list their doctors and how many different medica􀆟ons were prescribed by each doctor.
-  6. 
 
 ## 5. Database Design
 ![HMS_ERD](https://github.com/user-attachments/assets/c7c048e4-9e69-4549-a045-d42d52cada0e)
 
 ER Diagram: Include an Entity-Relationship (ER) diagram illustrating how tables (entities) are connected via relationships (foreign keys).
+
 Database Schema: List all tables and columns with the respective data types, primary keys, foreign keys, and constraints.
+
 Tables: Provide a list of all tables created (Patients, Doctors, Departments, Appointments, etc.).
+
 Keys & Constraints: Primary keys, foreign keys, and CHECK constraints for validation.
 
 
 ## 6. Key SQL Features Used
 
 Primary and Foreign Keys: Ensure data integrity.
+
 CHECK Constraints: Enforce data validation rules.
+
 JOIN Operations: Used for combining data across multiple tables.
+
 Common Table Expressions (CTE): For breaking down complex queries.
+
 Aggregate Functions: Such as SUM(), COUNT(), AVG().
+
 Group By & Having: For aggregated reports.
+
 Subqueries: For advanced filtering and analysis.
 
 
 ## 7. References
+
 SQL databases (e.g., SQL SERVER).
