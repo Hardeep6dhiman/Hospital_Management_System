@@ -1,10 +1,14 @@
 ![hospital-8687007_1920](https://github.com/user-attachments/assets/458aae57-c475-4a4d-b2c0-49191d025140)
 # Hospital_Management_System
 
+**Project Title**:Hospital Management System  
+**Database**: HMS
+
+This project demonstrates the implementation of a Hospital Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
+
 ## 1. Project Overview
 
-Purpose: Provide a high-level overview of the system. Describe the goal of the project and why it’s necessary.
-Example: “The Hospital Management System (HMS) Database is designed to streamline hospital operations by organizing and managing patient, doctor, staff, and administrative data. This system allows for efficient handling of appointments, medical records, billing, and other critical hospital operations. It ensures that data is stored in a structured way for easy retrieval and analysis.”
+The Hospital Management System (HMS) Database is designed to automate and streamline various operational and administrative tasks within a hospital. The database efficiently manages patient records, doctor information, appointments, billing, medical records, lab tests, medications, staff, and room availability. By ensuring data integrity and facilitating quick access to vital information, the system enhances overall hospital performance and supports decision-making through powerful data retrieval and reporting capabilities.
 
 ## 2. Project Objectives
 
