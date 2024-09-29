@@ -54,7 +54,8 @@ Support for Reporting and Analytics: Facilitate queries and reports for hospital
   5. For each pa􀆟ent, list their doctors and how many different medica􀆟ons were prescribed by each doctor.
 
 ## 5. Database Design
-![HMS_ERD](https://github.com/user-attachments/assets/c7c048e4-9e69-4549-a045-d42d52cada0e)
+![HMS_ERD@](https://github.com/user-attachments/assets/b8c796a2-9651-4bc7-9357-321f266e2f39)
+
 
 ER Diagram: Include an Entity-Relationship (ER) diagram illustrating how tables (entities) are connected via relationships (foreign keys).
 
